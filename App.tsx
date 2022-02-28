@@ -29,6 +29,7 @@ const App = () => {
   return (
     <View style={bgStyle}>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
+      <Text>MERHAB</Text>
     </View>
   );
 };
